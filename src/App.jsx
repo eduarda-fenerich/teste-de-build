@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <h1>Patrick meu cachorro perfeito</h1>
+     <img src="./imagens.Pa.png" alt="" />
     </>
   )
 }
